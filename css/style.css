@@ -161,6 +161,7 @@
     border: 2px solid grey;
     border-radius: 14px;
     margin-top: 5px;
+    object-fit:cover;
 }
 
 .t-big {
